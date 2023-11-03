@@ -1,4 +1,4 @@
-/* Reset some default styles */
+/* Add your CSS to this file */
 body {
     margin: 0;
     font-size: 18px;
@@ -11,7 +11,6 @@ body {
     width: 100%;
 }
 
-/* Header Styles */
 header {
     background-color: white;
     display: flex;
@@ -21,13 +20,13 @@ header {
     font-size: 18px;
 }
 
-/* Add this CSS to style the blue text */
+
 .blue-text {
-    color: #5A67D8; /* Blue color */
+    color: #5A67D8; 
 }
 
 h1 {
-    font-size: 24px; /* Increase the font size of the heading */
+    font-size: 24px; 
 }
 
 nav ul {
@@ -51,7 +50,6 @@ nav a:hover {
     color: #5A67D8;
 }
 
-/* Hero Overview Section Styles */
 .overview-hero {
     background-color: #E2E8F0;
     padding: 40px;
@@ -78,7 +76,6 @@ nav a:hover {
     font-size: 18px;
 }
 
-/* Learn About Section Styles */
 .learn-about {
     padding: 40px;
 }
@@ -113,7 +110,7 @@ nav a:hover {
     color: #48BB78;
 }
 
-/* COVID-19 Testing Section Styles */
+
 .testing {
     background-color: #4A5568;
     color: white;
@@ -137,7 +134,7 @@ nav a:hover {
     font-size: 18px;
 }
 
-/* Recent Stories Section Styles */
+
 .stories {
     padding: 40px;
 }
@@ -172,7 +169,7 @@ article p {
     color: black;
 }
 
-/* Newsletter Section Styles */
+
 .newsletter {
     background-color: #48BB78;
     color: white;
@@ -210,7 +207,6 @@ header nav ul {
     font-size: 18px;
 }
 
-/* Footer Styles */
 footer {
     background-color: #4A5568;
     color: white;
